@@ -122,10 +122,10 @@ Me chamo Bruno Oliveira Pedroso, tenho 18 anos e sou natural de São Paulo. Sou 
 <img 
     align="left" 
     alt="Make" 
-    title="Make (Integromat)"
+    title="Make"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://avatars.githubusercontent.com/u/56963140?s=200&v=4" 
+    src="https://images.g2crowd.com/uploads/product/image/large_detail/large_detail_477db83f729d63210139ec7cd29c1351/make.png" 
 />
 <img 
     align="left" 
@@ -133,7 +133,7 @@ Me chamo Bruno Oliveira Pedroso, tenho 18 anos e sou natural de São Paulo. Sou 
     title="Airtable"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.worldvectorlogo.com/logos/airtable-1.svg" 
+    src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Airtable_Logo.svg" 
 />
 <img 
     align="left" 

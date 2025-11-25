@@ -148,29 +148,14 @@ Me chamo Bruno Oliveira Pedroso, tenho 18 anos e sou natural de São Paulo. Sou 
     <th>Nível</th>
   </tr>
   <tr>
-    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="20"/> Python</td>
-    <td>Automação & IA</td>
-    <td>⭐⭐⭐⭐⭐</td>
-  </tr>
-  <tr>
-    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="20"/> JavaScript</td>
-    <td>Desenvolvimento Web</td>
-    <td>⭐⭐⭐⭐⭐</td>
-  </tr>
-  <tr>
     <td><img src="https://avatars.githubusercontent.com/u/45487711?s=200&v=4" width="20"/> N8N</td>
     <td>Automação de Workflows</td>
-    <td>⭐⭐⭐⭐</td>
-  </tr>
-  <tr>
-    <td><img src="https://cdn.worldvectorlogo.com/logos/shopify.svg" width="20"/> Shopify</td>
-    <td>E-commerce</td>
-    <td>⭐⭐⭐⭐</td>
+    <td>⭐⭐⭐⭐⭐</td>
   </tr>
   <tr>
     <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/supabase/supabase-original.svg" width="20"/> Supabase</td>
     <td>Banco de Dados</td>
-    <td>⭐⭐⭐⭐</td>
+    <td>⭐⭐⭐⭐⭐</td>
   </tr>
   <tr>
     <td><img src="https://static.vecteezy.com/system/resources/previews/022/227/364/non_2x/openai-chatgpt-logo-icon-free-png.png" width="20"/> OpenAI</td>
@@ -180,12 +165,22 @@ Me chamo Bruno Oliveira Pedroso, tenho 18 anos e sou natural de São Paulo. Sou 
   <tr>
     <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" width="20"/> PostgreSQL</td>
     <td>Banco de Dados</td>
+    <td>⭐⭐⭐⭐⭐</td>
+  </tr>
+  <tr>
+    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/googlecloud/googlecloud-original.svg" width="20"/> Google Cloud</td>
+    <td>Cloud Computing</td>
+    <td>⭐⭐⭐⭐⭐</td>
+  </tr>
+  <tr>
+    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="20"/> JavaScript</td>
+    <td>Desenvolvimento Web</td>
     <td>⭐⭐⭐⭐</td>
   </tr>
   <tr>
-    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" width="20"/> Docker</td>
-    <td>Containerização</td>
-    <td>⭐⭐⭐</td>
+    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="20"/> Python</td>
+    <td>Automação & IA</td>
+    <td>⭐⭐⭐⭐</td>
   </tr>
   <tr>
     <td><img src="https://cdn.worldvectorlogo.com/logos/zapier.svg" width="20"/> Zapier</td>
@@ -193,8 +188,13 @@ Me chamo Bruno Oliveira Pedroso, tenho 18 anos e sou natural de São Paulo. Sou 
     <td>⭐⭐⭐⭐</td>
   </tr>
   <tr>
-    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/googlecloud/googlecloud-original.svg" width="20"/> Google Cloud</td>
-    <td>Cloud Computing</td>
+    <td><img src="https://cdn.worldvectorlogo.com/logos/shopify.svg" width="20"/> Shopify</td>
+    <td>E-commerce</td>
+    <td>⭐⭐⭐</td>
+  </tr>
+  <tr>
+    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" width="20"/> Docker</td>
+    <td>Containerização</td>
     <td>⭐⭐⭐</td>
   </tr>
 </table>

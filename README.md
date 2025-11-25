@@ -141,7 +141,9 @@ Me chamo Bruno Oliveira Pedroso, tenho 18 anos e sou natural de São Paulo. Sou 
 
 ### 📊 Estatísticas
 
-<a href="https://github.com/brunooliveirapedroso">
-  <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=brunooliveirapedroso&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
-  <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=brunooliveirapedroso&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&custom_title=Tecnologias%20Mais%20Usadas"/>
-</a>
+<div align="center">
+  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=brunooliveirapedroso&theme=tokyonight"/>
+  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=brunooliveirapedroso&theme=tokyonight"/>
+  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=brunooliveirapedroso&theme=tokyonight"/>
+  <img height="180em" src="https://streak-stats.demolab.com?user=brunooliveirapedroso&theme=tokyonight&hide_border=false&locale=pt-BR"/>
+</div>

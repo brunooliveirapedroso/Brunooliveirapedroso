@@ -141,6 +141,7 @@ Me chamo Bruno Oliveira Pedroso, tenho 18 anos e sou natural de São Paulo. Sou 
 
 ### 📊 Estatísticas
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=brunooliveirapedroso&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=brunooliveirapedroso&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9&locale=pt-br)
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=brunooliveirapedroso&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&locale=pt-br"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunooliveirapedroso&layout=compact&langs_count=7&theme=tokyonight&locale=pt-br&custom_title=Tecnologias%20e%20Ferramentas%20Mais%20Usadas"/>
+</div>

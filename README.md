@@ -61,7 +61,7 @@ Me chamo Bruno Oliveira Pedroso, tenho 18 anos e sou natural de São Paulo. Sou 
     title="N8N"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://n8n.io/favicon.ico" 
+    src="https://avatars.githubusercontent.com/u/45487711?s=200&v=4" 
 />
 <img 
     align="left" 
@@ -69,7 +69,7 @@ Me chamo Bruno Oliveira Pedroso, tenho 18 anos e sou natural de São Paulo. Sou 
     title="Shopify"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/shopify/shopify-original.svg" 
+    src="https://cdn.worldvectorlogo.com/logos/shopify.svg" 
 />
 <img 
     align="left" 
@@ -85,7 +85,7 @@ Me chamo Bruno Oliveira Pedroso, tenho 18 anos e sou natural de São Paulo. Sou 
     title="OpenAI"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/openai/openai-original.svg" 
+    src="https://static.vecteezy.com/system/resources/previews/022/227/364/non_2x/openai-chatgpt-logo-icon-free-png.png" 
 />
 <img 
     align="left" 
@@ -117,7 +117,7 @@ Me chamo Bruno Oliveira Pedroso, tenho 18 anos e sou natural de São Paulo. Sou 
     title="Zapier"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://zapier.com/favicon.ico" 
+    src="https://cdn.worldvectorlogo.com/logos/zapier.svg" 
 />
 <img 
     align="left" 
@@ -125,7 +125,7 @@ Me chamo Bruno Oliveira Pedroso, tenho 18 anos e sou natural de São Paulo. Sou 
     title="Make (Integromat)"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://www.make.com/favicon.ico" 
+    src="https://avatars.githubusercontent.com/u/56963140?s=200&v=4" 
 />
 <img 
     align="left" 
@@ -133,7 +133,7 @@ Me chamo Bruno Oliveira Pedroso, tenho 18 anos e sou natural de São Paulo. Sou 
     title="Airtable"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://airtable.com/favicon.ico" 
+    src="https://cdn.worldvectorlogo.com/logos/airtable-1.svg" 
 />
 <img 
     align="left" 

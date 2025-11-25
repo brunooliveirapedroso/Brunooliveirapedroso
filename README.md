@@ -121,22 +121,6 @@ Me chamo Bruno Oliveira Pedroso, tenho 18 anos e sou natural de São Paulo. Sou 
 />
 <img 
     align="left" 
-    alt="Make" 
-    title="Make"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://images.g2crowd.com/uploads/product/image/large_detail/large_detail_477db83f729d63210139ec7cd29c1351/make.png" 
-/>
-<img 
-    align="left" 
-    alt="Airtable" 
-    title="Airtable"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Airtable_Logo.svg" 
-/>
-<img 
-    align="left" 
     alt="Google Cloud" 
     title="Google Cloud"
     width="30px" 

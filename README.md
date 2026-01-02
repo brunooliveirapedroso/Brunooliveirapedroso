@@ -12,7 +12,7 @@ Me chamo Bruno Oliveira Pedroso, tenho 18 anos e sou natural de São Paulo. Sou 
             src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
         />
     </a>
-    <a href="https://www.instagram.com/brunolvr.ai/">
+    <a href="https://www.instagram.com/lvrbruno.ads/">
         <img 
             alt="Instagram" 
             title="Siga-me no Instagram" 
